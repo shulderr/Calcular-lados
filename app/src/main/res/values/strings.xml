@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CALCULATOR</string>
+    <string name="LadoUno">LADO UNO</string>
+    <string name="LadoDos">LADO DOS</string>
+    <string name="Calcular">CALCULAR</string>
+    <string name="Resultado">Resultado:</string>
+</resources>
